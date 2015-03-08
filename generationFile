@@ -1,0 +1,8 @@
+package net.darkqua.voidpixel;
+import coolstuff.things.generation;
+public class Generation {
+  coolstuff.generation(blocks);
+  blocks = new Array(blocks.coolstuff);
+  
+}
+//End
